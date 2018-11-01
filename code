@@ -1,0 +1,14 @@
+word = input("Yo famsquad give me that word that I need:")
+for letter in word:
+    if letter == "a":
+        continue
+    if letter == "e":
+        continue
+    if letter == "i":
+        continue
+    if letter == "o":
+        continue
+    if letter == "u":
+        continue
+    else:
+        print(letter)
